@@ -1,0 +1,8 @@
+
+- Finish basic inspector
+- Add Animation playback
+- Explore Drag&Drop 
+- Add Custom Material View with sphere preview
+
+Maybe:
+-Move MultiMaterial funcionality into a mojo3D.Model extension, at least part of it, so you can store submaterial names in the Model itself, and just grab them from the Library.
